@@ -103,9 +103,11 @@ Publish the website in the given URL.
 ## OUTPUT:
 
 ### Server Output
-![Serveroutput](cal.png)
+![out put image](https://github.com/ARUNKUMART9968/standard-calculator/assets/121215794/126aa403-5fa8-44b4-9e95-e130ddd2585c)
+
 
 ### Client Output
-![Clientoutput](cal.png)
+![cal](https://github.com/ARUNKUMART9968/standard-calculator/assets/121215794/da1d2f97-3303-406b-a64f-403f061bec0b)
+
 ## Result:
 The output for calculator is displayed successfully.
